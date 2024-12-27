@@ -97,7 +97,7 @@ export default function PortfolioSection() {
                 accounts for purchase, while sellers can manage their balance,
                 listings, and transactions. The bot remembers user preferences
                 and securely handles transactions through chat, making the
-                process more seamless and engaging. Whether you're a buyer or
+                process more seamless and engaging. Whether you&apos;re a buyer or
                 seller, the bot provides a personalized experience, automating
                 many processes for smoother operations.
               </p>

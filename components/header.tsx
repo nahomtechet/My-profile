@@ -208,7 +208,7 @@ export default function Hero() {
                 ...
               </h2>
               <p className="mt-4 text-sm font-light text-white/50">
-                Because if the code doesn't make an impact, what's the point?
+                Because if the code doesn&apos;t make an impact, what&apos;s the point?
               </p>
             </div>
           </motion.div>
@@ -222,7 +222,7 @@ export default function Hero() {
         >
           <div className="lg:ml-20 lg:left-[200px]">
             <h2 className="text-white text-2xl md:text-4xl lg:text-4xl font-bold font-['Preahvihear'] tracking-wide">
-              I'm a Full-Stack Developer.
+              I&apos;m a Full-Stack Developer.
             </h2>
             <p className="text-white/50 text-sm md:text-base font-['Ebrima'] font-normal tracking-wide max-w-3xl">
               A self-taught Full-Stack Developer with 1+ years of experience. I
@@ -242,7 +242,7 @@ export default function Hero() {
             transition={{ duration: 0.5, delay: 0.3 }}
           >
             <h2 className="text-white text-2xl md:text-4xl lg:text-4xl font-bold pb-0 font-['Preahvihear'] tracking-wide">
-              " Also I'm a Graphic Designer.
+              " Also I&apos;m a Graphic Designer.
             </h2>
             <p className="text-white/50 text-sm md:text-base font-['Ebrima'] font-normal tracking-wide max-w-3xl">
               Creative and detail-oriented Graphic Designer with over 2 years of
