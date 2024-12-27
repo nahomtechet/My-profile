@@ -109,7 +109,7 @@ If you'd like to contribute to this project, feel free to fork the repository an
 1. **Fork the repository** to your own GitHub account.
 2. **Clone your fork**:
     ```bash
-    git clone https://github.com/your-username/portfolio.git
+    git clone https://github.com/nahomtechet/My-profile.git
     ```
 
 3. **Create a new branch** for your feature or fix:
