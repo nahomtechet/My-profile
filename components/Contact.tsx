@@ -47,7 +47,7 @@ const ContactUs = () => {
       <div className="absolute top-0 left-0 w-[642px] h-[720px] bg-[radial-gradient(50%_50%_at_50%_50%,#763CAC_0%,rgba(50,15,133,0)_100%)] opacity-5"></div>
       <div className="absolute top-0 left-0 w-[625px] h-[700px] bg-[radial-gradient(50%_50%_at_50%_50%,#763CAC_0%,rgba(50,15,133,0)_100%)]"></div>
 
-      <div className="container mx-auto px-4 relative z-10">
+      <div className="container mx-auto px-4 relative ">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
   
           <div className="text-white space-y-8">
