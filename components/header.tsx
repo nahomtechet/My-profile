@@ -252,7 +252,7 @@ export default function Hero() {
               assets, and print materials that really resonate with target
               audiences. Passionate about bringing ideas into visually stunning
               and meaningful designs, I try to provide solutions that meet the
-              objectives of the clients and elevate brand identity."
+              objectives of the clients and elevate brand identity.
             </p>
           </motion.div>
         </div>
