@@ -12,6 +12,13 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      backgroundImage: {
+        "custom-radial":
+          "radial-gradient(50% 50% at 50% 50%, #763CAC 0%, rgba(50, 15, 133, 0) 100%)",
+      },
+      fontFamily: {
+        Preahvihear: ["Preahvihear", "sans-serif"],
+      },
     },
   },
   plugins: [],
