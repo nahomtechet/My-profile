@@ -242,7 +242,7 @@ export default function Hero() {
             transition={{ duration: 0.5, delay: 0.3 }}
           >
             <h2 className="text-white text-2xl md:text-4xl lg:text-4xl font-bold pb-0 font-['Preahvihear'] tracking-wide">
-              " Also I&apos;m a Graphic Designer.
+              Also I&apos;m a Graphic Designer.
             </h2>
             <p className="text-white/50 text-sm md:text-base font-['Ebrima'] font-normal tracking-wide max-w-3xl">
               Creative and detail-oriented Graphic Designer with over 2 years of
