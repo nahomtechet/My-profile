@@ -9,12 +9,15 @@ import WorkExperience from "@/components/WorkExperience";
 export default function Home() {
   return (
    <>
+  
+
    <Navbar/>
    <Hero/>
    <WorkExperience/>
    <PortfolioSection/>
    <ContactUs/>
    <Footer/>
+ 
    </>
   );
 }
